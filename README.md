@@ -45,8 +45,6 @@ Para rodar o aplicativo localmente, siga os passos abaixo:
 
 - React Native
 - JavaScript
-- TypeScript
-- Styled Components
 
 ---
 
