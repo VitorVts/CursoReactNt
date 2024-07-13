@@ -50,7 +50,5 @@ Para rodar o aplicativo localmente, siga os passos abaixo:
 
 ## Outros Desafios
 
-Mais desafios serão adicionados em breve. Fique atento para atualizações!
-
----
+Mais desafios serão adicionados em breve. Fique atento para https://drive.google.com/file/d/1Ci8M3b7mdaGq80lbWffehnSexDkGAhve/view?usp=drivesdk
 
