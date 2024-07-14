@@ -18,7 +18,8 @@ O aplicativo "Qual a Melhor Opção?" ajuda o usuário a decidir se compensa mai
 ### Foto do App
 
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1GaWScd_B9FDcc7eVefK8FER3EQQhJi3c)
-![Screenshot 2](https://drive.google.com/uc?export=view&id=18LpPBwfN7taVaEO9q7UH7nyC7GuMbI0o)
+![Screenshot 2](https://drive.google.com/uc?export=view&id=18rNaHWVpIxobfDa-ioxYW8TWvMdcABn4)
+
 
 ### Como Rodar o App
 
