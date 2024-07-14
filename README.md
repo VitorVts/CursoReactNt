@@ -48,7 +48,48 @@ Para rodar o aplicativo localmente, siga os passos abaixo:
 
 ---
 
-## Outros Desafios
+## Desafio 2: Busca CEP
 
-Mais desafios serão adicionados em breve. Fique atento para https://drive.google.com/file/d/1Ci8M3b7mdaGq80lbWffehnSexDkGAhve/view?usp=drivesdk
+### Descrição do App
+
+O aplicativo "Busca CEP" permite ao usuário buscar informações de endereço a partir de um CEP (Código de Endereçamento Postal). Utilizando a API do ViaCEP, o app retorna dados como logradouro, bairro, cidade e estado ao inserir um CEP válido.
+
+### Funcionalidades
+
+- Entrada do CEP.
+- Botão para buscar informações do CEP.
+- Exibição dos dados do endereço retornados pela API (logradouro, bairro, cidade, estado).
+- Botão para limpar a pesquisa e realizar uma nova consulta.
+
+### Foto do App
+
+![Screenshot 1](https://drive.google.com/file/d/1AK2QecEeaXkUPQfq5qQnSx22UZD_IU9P/view?usp=drive_link)
+![Screenshot 2](https://drive.google.com/file/d/18rNaHWVpIxobfDa-ioxYW8TWvMdcABn4/view?usp=sharing)
+
+### Como Rodar o App
+
+Para rodar o aplicativo localmente, siga os passos abaixo:
+
+1. Clone este repositório:
+    ```sh
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd nome-do-repositorio
+    ```
+3. Instale as dependências:
+    ```sh
+    npm install
+    ```
+4. Rode o app:
+    ```sh
+    npm start
+    ```
+
+### Tecnologias Utilizadas
+
+- React Native
+- JavaScript
+- API do ViaCEP
 
