@@ -63,8 +63,8 @@ O aplicativo "Busca CEP" permite ao usuário buscar informações de endereço a
 
 ### Foto do App
 
-![Screenshot 1](https://drive.google.com/file/d/1AK2QecEeaXkUPQfq5qQnSx22UZD_IU9P/view?usp=drive_link)
-![Screenshot 2](https://drive.google.com/file/d/18rNaHWVpIxobfDa-ioxYW8TWvMdcABn4/view?usp=sharing)
+![Screenshot 1](https://drive.google.com/file/d/1AK2QecEeaXkUPQfq5qQnSx22UZD_IU9P)
+![Screenshot 2](https://drive.google.com/file/d/18rNaHWVpIxobfDa-ioxYW8TWvMdcABn4)
 
 ### Como Rodar o App
 
