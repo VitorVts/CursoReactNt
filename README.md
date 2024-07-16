@@ -95,3 +95,71 @@ Para rodar o aplicativo localmente, siga os passos abaixo:
 - JavaScript
 - API do ViaCEP
 
+---
+
+# Desafio 3 : AppTarefas
+
+## Descrição do App
+
+O aplicativo AppTarefas permite ao usuário criar, editar e excluir tarefas, além de oferecer funcionalidades de login e cadastro para vincular as tarefas a usuários específicos. O app garante que cada usuário veja apenas suas próprias tarefas ao fazer login.
+
+## Funcionalidades
+
+- **Login e Cadastro de Usuários:**
+  - Formulários para login e cadastro de novos usuários.
+  - Autenticação segura dos usuários.
+
+- **Gerenciamento de Tarefas:**
+  - Adicionar nova tarefa.
+  - Editar tarefas existentes.
+  - Excluir tarefas.
+  - Listagem das tarefas do usuário logado.
+
+## Fotos do App
+
+![Screenshot 1](https://drive.google.com/uc?export=view&id=11DvT4oFh794QWoTfOdZoa88H8jkXhOx2)
+![Screenshot 2](https://drive.google.com/uc?export=view&id=11IbFsbOwzQV2ojdzLYoAGt3jbzbepvBA)
+![Screenshot 3](https://drive.google.com/uc?export=view&id=11MB04fooorCkyGGCbJIEiS2QDPgsv8jj)
+![Screenshot 4](https://drive.google.com/uc?export=view&id=11Skx-uK5LyUmH-X4Kaeex0dEdfytzF75)
+![Screenshot 5](https://drive.google.com/uc?export=view&id=11Vq4-k5wKWNh4BqKdEcE036zBZP6J39m)
+
+
+## Como Rodar o App
+
+Para rodar o aplicativo localmente, siga os passos abaixo:
+
+1. Clone este repositório:
+    ```sh
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd nome-do-repositorio
+    ```
+3. Instale as dependências:
+    ```sh
+    npm install
+    ```
+4. Rode o app:
+    ```sh
+    npm start
+    ```
+
+## Tecnologias Utilizadas
+
+- React Native
+- JavaScript
+- Firebase para autenticação e armazenamento de dados
+
+## Detalhes das Funcionalidades
+
+- **Login e Cadastro:**
+  - Utilização de Firebase Authentication para gerenciar usuários.
+  - Interface de usuário com validações de formulário.
+
+- **Gerenciamento de Tarefas:**
+  - Utilização do Firebase Firestore para armazenar as tarefas dos usuários.
+  - Componentes React Native para criação, edição e exclusão de tarefas.
+
+Com essas funcionalidades, o aplicativo AppTarefas permite uma gestão eficiente e personalizada de tarefas, com segurança e usabilidade.
+
