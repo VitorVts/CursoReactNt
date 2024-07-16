@@ -117,11 +117,11 @@ O aplicativo AppTarefas permite ao usu√°rio criar, editar e excluir tarefas, al√
 
 ## Fotos do App
 
-![Screenshot 1](https://drive.google.com/uc?export=view&id=11DvT4oFh794QWoTfOdZoa88H8jkXhOx2)
+/*![Screenshot 1](https://drive.google.com/uc?export=view&id=11DvT4oFh794QWoTfOdZoa88H8jkXhOx2)
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=11IbFsbOwzQV2ojdzLYoAGt3jbzbepvBA)
 ![Screenshot 3](https://drive.google.com/uc?export=view&id=11MB04fooorCkyGGCbJIEiS2QDPgsv8jj)
 ![Screenshot 4](https://drive.google.com/uc?export=view&id=11Skx-uK5LyUmH-X4Kaeex0dEdfytzF75)
-![Screenshot 5](https://drive.google.com/uc?export=view&id=11Vq4-k5wKWNh4BqKdEcE036zBZP6J39m)
+![Screenshot 5](https://drive.google.com/uc?export=view&id=11Vq4-k5wKWNh4BqKdEcE036zBZP6J39m)*/
 
 
 ## Como Rodar o App
